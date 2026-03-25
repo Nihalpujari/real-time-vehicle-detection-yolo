@@ -1,0 +1,3 @@
+The Karnataka State Government’s Public Works Department (PWD) currently conducts traffic surveys by manually counting the number and types of vehicles passing through specific road segments. This process is time-consuming, labor-intensive, and prone to human error, especially under high traffic conditions.
+
+There is a need for an automated, scalable, and accurate system that can detect, classify, and count vehicles in real time using video data, thereby improving efficiency, reliability, and data-driven decision-making in traffic analysis and road planning.
