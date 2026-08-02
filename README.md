@@ -1,4 +1,4 @@
-# 🚗 Real-Time Vehicle Detection using YOLO
+# 🚗 Real-Time Vehicle Detection Using YOLO
 
 ## 📌 Overview
 
